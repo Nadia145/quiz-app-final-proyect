@@ -1,3 +1,10 @@
+# Final Project: Quiz Application with Microservices
+# Date: 29-May-2023
+# Authors:
+#          A01752030 Juan Pablo Castañeda Serrano
+#          A0752221 Omar Rodrigo Talavera Becerra
+#          A01752013 Nadia Paola Ferro Gallegos
+
 import boto3
 
 # Create a DynamoDB client
