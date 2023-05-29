@@ -1,0 +1,141 @@
+[{
+  "_id": {
+    "$oid": "646bc639689cb0166b2afc75"
+  },
+  "username": "nad14517",
+  "score": 7,
+  "dificultad": "easy"
+},{
+  "_id": {
+    "$oid": "646bc639689cb0166b2afc76"
+  },
+  "username": "lexxx85",
+  "score": 2,
+  "dificultad": "medium"
+},{
+  "_id": {
+    "$oid": "646bc639689cb0166b2afc77"
+  },
+  "username": "mamamaaay159",
+  "score": 10,
+  "dificultad": "hard"
+},{
+  "_id": {
+    "$oid": "646bc639689cb0166b2afc78"
+  },
+  "username": "aleleny753",
+  "score": 4,
+  "dificultad": "hard"
+},{
+  "_id": {
+    "$oid": "646bc639689cb0166b2afc79"
+  },
+  "username": "valentina438",
+  "score": 10,
+  "dificultad": "medium"
+},{
+  "_id": {
+    "$oid": "646bc639689cb0166b2afc7a"
+  },
+  "username": "humberto864",
+  "score": 3,
+  "dificultad": "easy"
+},{
+  "_id": {
+    "$oid": "646bc639689cb0166b2afc7b"
+  },
+  "username": "dani468",
+  "score": 8,
+  "dificultad": "hard"
+},{
+  "_id": {
+    "$oid": "646bc639689cb0166b2afc7c"
+  },
+  "username": "Pablongo154",
+  "score": 10,
+  "dificultad": "easy"
+},{
+  "_id": {
+    "$oid": "646bc639689cb0166b2afc7d"
+  },
+  "username": "papic879",
+  "score": 9,
+  "dificultad": "medium"
+},{
+  "_id": {
+    "$oid": "646bc639689cb0166b2afc7e"
+  },
+  "username": "bu201",
+  "score": 5,
+  "dificultad": "medium"
+},{
+  "_id": {
+    "$oid": "646bc639689cb0166b2afc7f"
+  },
+  "username": "frrr603",
+  "score": 2,
+  "dificultad": "hard"
+},{
+  "_id": {
+    "$oid": "646bc639689cb0166b2afc80"
+  },
+  "username": "p-p748",
+  "score": 7,
+  "dificultad": "easy"
+},{
+  "_id": {
+    "$oid": "646bc639689cb0166b2afc81"
+  },
+  "username": "motojorge550",
+  "score": 3,
+  "dificultad": "easy"
+},{
+  "_id": {
+    "$oid": "646bc639689cb0166b2afc82"
+  },
+  "username": "mel766",
+  "score": 10,
+  "dificultad": "medium"
+},{
+  "_id": {
+    "$oid": "646bc639689cb0166b2afc83"
+  },
+  "username": "yari959",
+  "score": 1,
+  "dificultad": "hard"
+},{
+  "_id": {
+    "$oid": "646bc639689cb0166b2afc84"
+  },
+  "username": "economialalo740",
+  "score": 6,
+  "dificultad": "hard"
+},{
+  "_id": {
+    "$oid": "646bc639689cb0166b2afc85"
+  },
+  "username": "leyva001",
+  "score": 10,
+  "dificultad": "easy"
+},{
+  "_id": {
+    "$oid": "646bc639689cb0166b2afc86"
+  },
+  "username": "lore966",
+  "score": 9,
+  "dificultad": "medium"
+},{
+  "_id": {
+    "$oid": "646bc639689cb0166b2afc87"
+  },
+  "username": "abril598",
+  "score": 4,
+  "dificultad": "medium"
+},{
+  "_id": {
+    "$oid": "646bc639689cb0166b2afc88"
+  },
+  "username": "mikaela999",
+  "score": 10,
+  "dificultad": "hard"
+}]
