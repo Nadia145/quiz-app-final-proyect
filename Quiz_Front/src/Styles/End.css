@@ -1,0 +1,78 @@
+.overlay{
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, .80);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contenedor{
+    width: 90%;
+    min-height: 90%;
+    background: #1f2229;
+    position: relative;
+    border-radius: 10px;
+    box-shadow: rgba(49, 1, 81, 0.781) 0px 7px 29px 0px;
+    padding: 20px;
+    display:flex;
+}
+.congratulations{
+    width: 70%;
+    height: 30%;
+    background: #770ec2;
+    position:static;
+    border-radius: 20px;
+    padding: 15px;
+    margin: 30px;
+    text-align: center;
+}
+.score{
+    width: 50%;
+    height: 10%;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    background: #101215;
+    border-radius: 10px;
+    align-content: center;
+    padding: 2%;
+    margin: 1%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.score-points{
+    text-align: center;   
+    position: relative;
+    width: 31%;
+    height: 50%;
+    margin: 1%;
+    background: #770ec2;
+    border-radius: 10px;
+}
+.btm{
+    width: 90%;
+    position: relative;
+    display:flex;
+    background: #101215;
+    border-radius: 10px;
+    flex-direction: row;
+    justify-content: space-between;
+    
+
+}
+.btn{
+    cursor: pointer;
+    display: inline-block; 
+    text-align: center;   
+    position: relative;
+    width: 31%;
+    height: 50%;
+    margin: 1%;
+    background: #770ec2;    
+    border-radius: 10px;
+} 

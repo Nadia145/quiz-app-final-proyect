@@ -1,0 +1,33 @@
+.Button-start {
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    --color-text: #ffffff;
+    --color-background: #770ec2;
+    --color-outline: #ff14ff80;
+    --color-shadow: #00000080;
+  }
+  
+  .start-content {
+    display: flex;
+    align-items: center;
+    width: 500px;
+    height: 500px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 6000;
+    font-size: 150px;
+    color: var(--color-text);
+    background: var(--color-background);
+    transition: 1.5s;
+    border-radius: 50%;
+  }
+  
+  .start-content:hover, .start-content:focus {
+    transition: 1s;
+    -webkit-animation: start-content 1s;
+    animation: start-content 1s;
+    outline: 0.1em solid transparent;
+    outline-offset: 0.2em;
+    box-shadow: 0 0 0.4em 0 var(--color-background);
+  }
+  

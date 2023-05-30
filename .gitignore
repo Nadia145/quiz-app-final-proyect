@@ -24,3 +24,4 @@ local_settings.py
 
 # Ignorar archivos específicos de Flask
 instance/
+node_modules/
